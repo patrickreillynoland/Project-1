@@ -1,0 +1,18 @@
+#chirp-list {
+    display: block;
+    position: relative;
+    border: 2px solid darkblue;
+    padding: .3em;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#chirp-field {
+    display: inline;
+}
+
+#user-field {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
